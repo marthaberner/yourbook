@@ -1,24 +1,15 @@
-# README
+# Your Book
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is the creation of 12 year old, Charlie.
 
-Things you may want to cover:
+It allows Charlie and his friends to write stories and share them with each other.
 
-* Ruby version
+## SET UP
 
-* System dependencies
+* `fork / clone`
+* `bundle install`
+* `rails s`
 
-* Configuration
+## HEROKU 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://charlies-yourbook.herokuapp.com/
