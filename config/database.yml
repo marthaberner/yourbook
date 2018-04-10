@@ -13,5 +13,7 @@ test:
 
 production:
   <<: *default
-  url: <%= ENV['DATABASE_URL'] %>
+  database: yourbook_production
+  username: yourbook
+  password: <%= ENV['SECRET_KEY_BASE'] %>
 
